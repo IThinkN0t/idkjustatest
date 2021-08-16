@@ -1,0 +1,22 @@
+(KW).(PF)?(PT)=
+(KW).(PF)?(PT)= site:(DE)
+(SF)".(DE)" + "(KW)"
+(SF)(KW).(PF)?(PT)=
+(SF)(KW).(PF)?(PT)= site:(DE)
+(SF)(PT)=(KW).(PF)? site:(DE)
+(SF)"(KW)" + "(DE)".(PF)?(PT)=
+.(PF)?(PT)= "(KW)"
+(PT)= "(KW)" + ".(DE)"
+(KW) / (KW2) / ?(PF)= + site=.(DE)
+(KW) / (PF)?(PT)= site:(DE)
+"(KW)" (KW2)?(PT)= site:(DE)
+(KW) // (PF)= + site:(DE)
+"(KW)" + "(KW2)" / ?(PF)=(PT) + site:(DE)
+.(PF)? + ".(DE)" = (KW)
+.(PF)?"(KW)" + ".(DE)" (PT)=
+(SF)(PT)= "(KW)" + ".(DE)
+(PT)= (SF)"(KW)"
+.(PF)?(SF)"(KW)" (PT)=
+".(DE)" + "(KW)".(PF)?
+(SF)(PT)= + "(KW)".(PF)?
+(PT)= (KW).(PF)? (SF)(DE)
